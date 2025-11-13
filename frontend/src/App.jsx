@@ -2,7 +2,7 @@ import { Route, Routes } from 'react-router-dom'
 import './css/App.css'
 import Home from './pages/Home'
 import Favorites from './pages/Favorites'
-import NavBar from './components/Navbar'
+import NavBar from './components/NavBar.jsx'
 
 function App() {
   const movieNumber = 30
